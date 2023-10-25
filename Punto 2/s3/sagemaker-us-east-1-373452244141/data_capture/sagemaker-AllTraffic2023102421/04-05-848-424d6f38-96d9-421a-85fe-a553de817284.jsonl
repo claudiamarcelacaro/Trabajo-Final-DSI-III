@@ -1,0 +1,1 @@
+{"captureData":{"endpointInput":{"observedContentType":"text/csv","mode":"INPUT","data":"4230.0,4238.9707\n","encoding":"CSV"},"endpointOutput":{"observedContentType":"text/csv; charset=utf-8","mode":"OUTPUT","data":"4258.029734321028\n","encoding":"CSV"}},"eventMetadata":{"eventId":"dbe5f331-44c9-46a5-bc98-86768af3af5c","inferenceTime":"2023-10-24T21:04:05Z"},"eventVersion":"0"}
